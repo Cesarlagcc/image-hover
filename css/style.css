@@ -35,8 +35,8 @@
 	/*filter:brightness(50%);*/
 	filter:drop-shadow(0px 0px 20px #333);
 	transition:1s;	
-	border-radius: 100%;
-	border:10px solid #333;
+	border-radius: 80px;
+	border:5px solid #333;
 }
 
 .img-hover-container:hover p{
